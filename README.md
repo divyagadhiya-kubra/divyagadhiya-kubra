@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size:36px;">Hi 👋, I'm <span style="color:#0078D7;">Divya Gadhiya</span></h1>
 
 <p>
-<img align="right" alt="Coding" height="400" width="350" src="https://github.com/divyagadhiya21/divyagadhiya21/blob/main/anna-havrylyukh-.gif">
+<img align="right" alt="Coding" height="300" width="300" src="https://github.com/divyagadhiya21/divyagadhiya21/blob/main/anna-havrylyukh-.gif">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyagadhiya-kubra&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="divyagadhiya-kubra" /> </p>
