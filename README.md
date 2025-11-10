@@ -47,7 +47,6 @@
        • ✔️ Phone: 437-329-0719
 
 </p>
-
 <p>
   
 - 🕛 Times / hours I like to work
@@ -56,13 +55,8 @@
   
 </p>
 
-
-
-
-
-  
-
 <p>&nbsp;
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=divyagadhiya-kubra&show_icons=true&locale=en" alt="divyagadhiya-kubra" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=divyagadhiya-kubra&" alt="divyagadhiya-kubra" /></p>
+<img align="left" height="450" width="450" src="https://github-readme-stats.vercel.app/api?username=divyagadhiya-kubra&show_icons=true&locale=en" alt="divyagadhiya-kubra" />
+<img align="right" height="450" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=divyagadhiya-kubra&" alt="divyagadhiya-kubra" />
+</p>
 
