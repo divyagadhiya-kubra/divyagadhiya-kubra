@@ -56,7 +56,7 @@
 </p>
 
 <p>&nbsp;
-<img align="left" height="450" width="450" src="https://github-readme-stats.vercel.app/api?username=divyagadhiya-kubra&show_icons=true&locale=en" alt="divyagadhiya-kubra" />
-<img align="right" height="450" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=divyagadhiya-kubra&" alt="divyagadhiya-kubra" />
+<img align="left" height="400" width="400" src="https://github-readme-stats.vercel.app/api?username=divyagadhiya-kubra&show_icons=true&locale=en" alt="divyagadhiya-kubra" />
+<img align="right" height="400" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=divyagadhiya-kubra&" alt="divyagadhiya-kubra" />
 </p>
 
