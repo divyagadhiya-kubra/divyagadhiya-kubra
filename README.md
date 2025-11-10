@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm @Divya Gadhiya</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyagadhiya-kubra&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="divyagadhiya-kubra" /> </p>
-
 <p>
 <img align="right" alt="Coding" height="200" width="300"src="https://github.com/divyagadhiya21/divyagadhiya21/blob/main/anna-havrylyukh-.gif">
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyagadhiya-kubra&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="divyagadhiya-kubra" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
